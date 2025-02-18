@@ -1,0 +1,1 @@
+This repository demonstrates a subtle HTML bug involving attempts to manipulate non-existent elements. The bug is silent, meaning there's no JavaScript error reported, yet it prevents the intended style modifications from taking effect. The solution shows how to correctly check for the element's existence before attempting any manipulation.
